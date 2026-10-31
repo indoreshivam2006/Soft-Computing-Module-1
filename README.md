@@ -1,4 +1,4 @@
-# Soft Computing — Module 1: Fuzzy Logic
+# Soft Computing — Module 1: Practical Exercise
 
 **Course:** B.Tech CSE, 4th Year  
 **Subject:** Soft Computing  
